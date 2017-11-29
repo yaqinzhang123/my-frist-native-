@@ -58,7 +58,7 @@
 
 ###### 以上操作适合6.0以上版本的手机，当手机版本低于6.0时，编译时会报错，则需要重新下载.gradle文件
     
-    1.用户/.grandle/文件下,增加grandle-2-2-all.zip文件
+    1.用户/.grandle/wrapper/dists,增加grandle-2-2-all.zip文件
     
     2.项目下/android/grandle/wrapper/grandle-wrapper.properties
     
