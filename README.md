@@ -36,7 +36,7 @@
   
 ## 初始化项目
 
-1. react-native demo 项目名称
+1. react-native init demo 项目名称
 
 2.打开模拟器
 
