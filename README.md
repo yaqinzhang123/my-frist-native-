@@ -53,7 +53,23 @@
       {
         "extends":"rallycoding"
         }
-4.
+        
+## 模拟器的使用会占用计算机的大部分内存，为了方便进行项目的调试，可以链接手机设备进行调试，打开手机的开发这模式，链接即可进行调试
+
+## 以上操作适合6.0以上版本的手机，当手机版本低于6.0时，编译时会报错，则需要重新下载.gradle文件
+    
+    1.用户/.grandle/文件下,增加grandle-2-2-all.zip文件
+    
+    2.项目下/android/grandle/wrapper/grandle-wrapper.properties
+    
+## 启动项目
+
+  1.adb devices 查看链接的手机设备
+  
+  2.启动项目 react-native run-android
+  
+  
+
     
     
 
