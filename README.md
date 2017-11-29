@@ -22,7 +22,40 @@
   
   npm i -g react-native
   
-##环境变量配置
+## 环境变量配置
 
-1.
+1.新增环境变量
+
+  新建 ANDROID_HOME
+  
+  路径：用户主目录下/Appdata/localAndroid/sdk
+  
+2.path下新增路径
+
+  路径：用户主目录下/Appdata/localAndroid/sdk/platffrom-tools
+  
+## 初始化项目
+
+1. react-native demo 项目名称
+
+2.打开模拟器
+
+3.全局安装eslint
+
+  npm i -g eslint
+  
+  npm i --save-dev eslint-config-rallycoding
+  
+  在项目一级目录增加配置文件 .eslintrc
+  
+  
+  
+      {
+        "extends":"rallycoding"
+        }
+4.
+    
+    
+
+
 
