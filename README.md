@@ -2,6 +2,8 @@
 
 1.安装java sdk 
 
+  [java sdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 2.安装 nodejs 
 
   版本6.0~7.0最佳
